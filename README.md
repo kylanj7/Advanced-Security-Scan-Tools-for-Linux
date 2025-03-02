@@ -140,7 +140,7 @@ For optimal security, it's recommended to:
 
 ## License
 
-[Your chosen license]
+MIT License
 
 ## Contributing
 
